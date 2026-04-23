@@ -14,8 +14,8 @@
 
 ## What I'm Building
 
-- 🧠 **Timefull** — AI startup. Building in public.
-- 💰 **Timefull Capital** — A fund backing female founders. Accepted to VC Lab.
+- 🧠 **Timefull** (https://timefull.ai)— AI startup. Building in public.
+- 💰 **Timefull Capital** — AI Native fund backing solo founders. Accepted to VC Lab.
 - 🌐 **[iAngie](https://iangie.com)** — My personal brand and framework: AI Mind, Athlete Body, Artist Soul.
 
 ## Background
@@ -34,7 +34,7 @@ Investment thesis: AI-native only companies where AI is the product, not a featu
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Angelica_Carrillo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iangie/)
+[![LinkedIn](https://img.shields.io/badge/-iAngie-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iangie/)
 [![Twitter](https://img.shields.io/badge/-@iAngie-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iangievc)
 [![Instagram](https://img.shields.io/badge/-@iangie-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/iangievc)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AngieCarrillo)
