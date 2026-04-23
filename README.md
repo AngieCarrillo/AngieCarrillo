@@ -10,7 +10,7 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Time is more important than money. Building AI tools that give back humanity to humans.
+> Using AI to buy back time
 
 ## What I'm Building
 
@@ -20,13 +20,10 @@
 
 ## Background
 
-Former VC-backed CEO (Nextbiotics, CRISPR biotech developed at NASA Ames). 
-Former strategy lead at Pisa Pharmaceutical ($27M in product launches).
-Former Entrepreneur in Residence at Draper University under Tim Draper. 6 years as an independent strategy consultant for startups and Fortune 500s.
-
-30+ angel investments across the US and Latin America over 10+ years. Portfolio includes Ceremonia, and SoGal Fund I.
-Co-taught Fundraising School with Andres Bilbao co-founder of Rappi, a Latam top unicorn company.
-Self-taught front-end web developer. Singularity University alum (Google scholarship). UC Berkeley. Tec de Monterrey (top merit scholarship).
+I build, invest in, and advise startups.
+I was the VC-backed CEO of Nextbiotics, a CRISPR biotech spun out of NASA Ames Research Center. Before that, I led strategy at Pisa Pharmaceutical and drove $27M in product launches. Along the way I spent a year as Entrepreneur in Residence at Draper University under Tim Draper, and 6 years as an independent strategy consultant working with startups and Fortune 500s.
+On the investor side, I've made 30+ angel investments across the US and Latin America over the past 10 years. Portfolio includes Ceremonia and SoGal Fund I. I recently co-taught Fundraising School alongside Andrés Bilbao, co-founder of Rappi, one of Latin America's top unicorns.
+I'm also a self-taught front-end developer, which is why I'm here on GitHub. Singularity University alum (Google scholarship), UC Berkeley, Tec de Monterrey (top merit scholarship).
 
 ## Philosophy
 
