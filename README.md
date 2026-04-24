@@ -16,7 +16,7 @@
 
 - 🧠 **[Timefull](https://timefull.ai)**— AI startup. Building in public.
 - 💰 **Timefull Capital** — AI Native fund backing solo founders. Accepted to VC Lab.
-- 🌐 **[iAngie](https://iangie.com)** — My personal brand and framework: AI Mind, Athlete Body, Artist Soul.
+- 🌐 **[iAngie](https://iangie.com)** — My personal brand and framework for fundraising.
 
 ## Background
 
