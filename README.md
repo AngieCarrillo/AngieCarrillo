@@ -20,7 +20,7 @@
 ## Background
 
 I build, invest in, and advise startups.
-I was the VC-backed CEO of Nextbiotics, a CRISPR biotech spun out of NASA Ames Research Center. Before that, I led strategy at Pisa Pharmaceutical and drove $27M in product launches. Along the way I spent a year as Entrepreneur in Residence at Draper University under Tim Draper, and 6 years as an independent strategy consultant working with startups and Fortune 500s.
+I was the VC-backed CEO of a CRISPR biotech spun out of NASA Ames Research Center. Before that, I led strategy at Pisa Pharmaceutical and drove $27M in product launches. Along the way I spent a year as Entrepreneur in Residence at Draper University under Tim Draper, and 6 years as an independent strategy consultant working with startups and Fortune 500s.
 On the investor side, I've made 30+ angel investments across the US and Latin America over the past 10 years. Portfolio includes Ceremonia and SoGal Fund I. I recently co-taught Fundraising School alongside Andrés Bilbao, co-founder of Rappi, one of Latin America's top unicorns.
 I'm also a self-taught front-end developer, which is why I'm here on GitHub. Singularity University alum (Google scholarship), UC Berkeley, Tec de Monterrey (top merit scholarship).
 
